@@ -1,0 +1,19 @@
+{
+  "name": "hello-wrod",
+  "version": "1.0.0",
+  "description": "Simple node.js app that servers \"hello world\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junegithub123/node-hello-word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junegithub123/node-hello-word/issues"
+  },
+  "homepage": "https://github.com/Junegithub123/node-hello-word#readme"
+}
